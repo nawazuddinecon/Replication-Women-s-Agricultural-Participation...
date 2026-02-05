@@ -5,12 +5,8 @@ Symbiosis School of Economics, Symbiosis International (Deemed University), Pune
 nawazuddin.ahmed@sse.ac.in; nawazuddin.econ@gmail.com
 2. Asif Khan
 Institute of Management Technology, Nagpur, India
-Khanasifdu786@gmail.com
 3. Tapan Sarker
 University of Southern Queensland, Toowoomba, Australia
-Tapan.Sarker@unisq.edu.au
-
-
 *****************************************************************************************************
 
 1. This folder contains all the required files to produce the results of the above paper
