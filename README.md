@@ -15,11 +15,8 @@ University of Southern Queensland, Toowoomba, Australia
 
 3. However, prepared data files are provided in the folder data. These files are sufficient to reproduce the results
 
-4. There are two do files. One is to prepare the sample, andthe  other is to produce outputs
-
-5. Since the data folder contains two .dta files that are created after running the do file 'preparing_sample.do'
-So user can avoid re-running preparing_sample.do and can directly head to 'All_analysis_of_paper.do'
+4. Since the .dta file is too large, it has not been uploaded here. Users can get access to the file: https://drive.google.com/file/d/1Z3rvHN_KSSvbGGehKZoqNFMeSCz2-4Y_/view?usp=sharing
 
 6. From All_analysis_of_paper.do, users can produce all the figures and tables of the paper
 
-7. Both code files are annotated. 
+7. The code file is annotated. 
