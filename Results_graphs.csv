@@ -1,0 +1,31 @@
+﻿Graph,sex,freq,type,order,type_2,type_1,freq_1,sector
+1,Male,78.25,1All,1,1,Non-Clean Energy,36.87,1All
+1,Female,21.75,1All,1,1,Clean Energy,63.13,1All
+1,Male,76.74,2Rural,2,1,Non-Clean Energy,50.27,2Rural
+1,Female,23.26,2Rural,2,1,Clean Energy,49.73,2Rural
+1,Male,82.12,3Urban,3,1,Non-Clean Energy,8.02,3Urban
+1,Female,17.88,3Urban,3,1,Clean Energy,91.98,3Urban
+2,All,45.4,4Agriculture,4,2,Non-Clean Energy,63.31,1All
+2,All,27.85,5Farmer,5,2,Clean Energy,36.69,1All
+2,All,17.55,6Agriculture Labour,,2,Non-Clean Energy,81.35,2Rural
+2,Male,40.99,4Agriculture,4,2,Clean Energy,18.65,2Rural
+2,Female,61.27,4Agriculture,5,2,Non-Clean Energy,22.58,3Urban
+2,Male,26.15,5Farmer,6,2,Clean Energy,77.42,3Urban
+2,Female,33.99,5Farmer,6,3,Non-Clean Energy for Cooking and Heating,34.98,1All
+2,Male,14.84,6Agriculture Labour,,3,Non-Clean Energy for Cooking but Clean for Heating,1.81,1All
+2,Female,27.28,6Agriculture Labour,,3,Clean Energy for Cooking but non-Clean for Heating,28.44,1All
+,,,,,3,Clean Energy for Cooking and Heating,34.77,1All
+,,,,,3,Non-Clean Energy for Cooking and Heating,47.51,2Rural
+,,,,,3,Non-Clean Energy for Cooking but Clean for Heating,2.27,2Rural
+,,,,,3,Clean Energy for Cooking but non-Clean for Heating,33.84,2Rural
+,,,,,3,Clean Energy for Cooking and Heating,16.38,2Rural
+,,,,,4,Non-Clean Energy for Cooking and Heating,6.51,3Urban
+,,,,,4,Non-Clean Energy for Cooking but Clean for Heating,0.78,3Urban
+,,,,,4,Clean Energy for Cooking but non-Clean for Heating,16.18,3Urban
+,,,,,4,Clean Energy for Cooking and Heating,76.52,3Urban
+,,,,,5,Non-Clean Energy for Cooking and Heating,50.15,1All
+,,,,,5,Clean Energy for Cooking and Heating,49.85,1All
+,,,,,5,Non-Clean Energy for Cooking and Heating,74.37,2Rural
+,,,,,5,Clean Energy for Cooking and Heating,25.63,2Rural
+,,,,,5,Non-Clean Energy for Cooking and Heating,7.84,3Urban
+,,,,,5,Clean Energy for Cooking and Heating,92.16,3Urban
